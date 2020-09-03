@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\programmering\\arduino"
+		},
+		{
+			"name": "hello-arduino",
+			"path": "..\\..\\..\\..\\programmering\\arduino\\hello-arduino\\hello-arduino"
+		},
+		{
+			"name": "arduinomeasure",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
